@@ -40,6 +40,7 @@ if (window.mapControl_Loaded == null) {
                     true
                 );
             });
+
             $(".mapboxgl-canvas").focus()
         },
 
