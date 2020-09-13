@@ -1,5 +1,5 @@
 # NetcadAssignment
-In this project, I made the [mapbox](https://www.mapbox.com/) canvas drawing of square, triangle, ellipse and circle shapes by pressing a certain key on the keyboard.
+In this project, I made a drawing on the server side by pressing a certain key on the keyboard and returned a [geojson](https://geojson.org/) type result, drawing square, triangle, ellipse and circle shapes on the [mapbox](https://www.mapbox.com/) canvas.
 ## Usage
 + Press <b>C</b> to draw a <b>Circle</b>
 + Press <b>S</b> to draw a <b>Square</b>
