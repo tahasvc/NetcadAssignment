@@ -11,3 +11,9 @@ You can make a drawing on the canvas by pressing the <b>C</b> key on the keyboar
 ### Square (Press S)
 You can make a drawing on the canvas by pressing the <b>S</b> key on the keyboard.<br/><br/>
 ![Alt Text](https://github.com/tahasvc/NetcadAssignment/blob/master/square.gif)
+### Triangle (Press T)
+You can make a drawing on the canvas by pressing the <b>T</b> key on the keyboard.<br/><br/>
+![Alt Text](https://github.com/tahasvc/NetcadAssignment/blob/master/triangle.gif)
+### Ellipse (Press E)
+You can make a drawing on the canvas by pressing the <b>E</b> key on the keyboard.<br/><br/>
+![Alt Text](https://github.com/tahasvc/NetcadAssignment/blob/master/ellipse.gif)
